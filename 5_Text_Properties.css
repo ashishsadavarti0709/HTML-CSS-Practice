@@ -1,0 +1,15 @@
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    text-decoration: green underline dashed;
+    /*
+    text-decoration-line: underline;
+    text-decoration-color: green;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 20px;
+    */
+    
+}
