@@ -1,0 +1,24 @@
+.box1 {
+    border: 2px solid black;
+    /*padding-left: 25px;
+    padding-top: 50px;
+    padding-right: 25px;
+    padding-bottom: 50px;*/
+    /*padding: 50px;*/
+
+    padding: 40px 50px;
+    /*padding: 50px 60px 70px 80px;*/
+    margin: 20px;
+    
+    /*margin-bottom: 20px;*/
+}
+
+/* Margin Collapsing */
+
+.box2{
+    border: 2px solid black;
+    padding: 40px 50px;
+    margin: 80px;
+}
+
+/*Content*/

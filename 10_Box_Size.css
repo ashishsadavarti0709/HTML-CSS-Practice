@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    border: 2px solid black;
+    padding: 40px 50px;
+    margin: 100px;
+    width: 300px;
+    height: 200px;
+}
+
+/* 200 - 80 - 4 = 116px  ---- content 
+    300 - 100 - 4 = 196px 
+*/
+
+/* Height + broder + padding = Actual Height */
+/* 200 + 4 + 80 = 284 */
+
+/* Width + broder + padding = Actual Width */
+/* 300 + 4 + 100 = 404 */
+
+/**/
+/**/
+
+.box2{
+    border: 2px solid black;
+    margin: 80px;
+    width: 300px;
+    height: 200px;
+}
+
+
+/*  100 + 4 = 204px
+    300 + 4 = 304px
+*/

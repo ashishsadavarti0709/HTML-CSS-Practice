@@ -1,0 +1,43 @@
+h1{/*
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: solid;*/
+
+    /*shorthand Property*/
+    border: 2px solid blueviolet;
+    border-radius: 2px;
+    width: 400px;
+    height: 200px;
+
+    /*border-top: 20px dashed blue;*/
+    /*border-bottom: 20px dotted blue;*/
+
+    /*border-radius: 10px;*/
+
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+/*
+p{
+    width: 500px;
+    height: 800px;
+    border: 2px solid blueviolet;
+}*/
+
+.first{
+    width: 500px;
+    height: 100px;
+}
+
+.second{
+    width: 500px;
+    height: 800px;
+}
+
+span{
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: solid;
+    width: 300px;
+}
